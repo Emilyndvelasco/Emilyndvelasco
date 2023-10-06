@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Emilyndvelasco
-- 👀 I’m interested in leveling up my data skills.
-- 🌱 I’m currently learning SQL. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Emily!
+- 👀 I’m working with SQL and Tableau to analyze data on a freelance basis.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emily-nelson-de-velasco/)! 
 
 <!---
 Emilyndvelasco/Emilyndvelasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
